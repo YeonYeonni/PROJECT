@@ -21,8 +21,7 @@
       ADID타입, 플랫폼, OS종류, 사이즈ID
 
 ### 3) Feature Engineering
-      (1) P2 & P3 (bidfloors) < P4 (AX bidprice)
-         를 만족하면 1, 그렇지 않으면 0
+      (1) P2 & P3 (bidfloors) < P4 (AX bidprice) 를 만족하면 1, 그렇지 않으면 0
       (2) P4 - P3
       (3) P4 - P2
 
