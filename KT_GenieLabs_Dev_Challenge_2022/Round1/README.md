@@ -30,7 +30,7 @@
     RandomForest
 
 ## 4. 예측
-    <img width="80%" src="![image](https://user-images.githubusercontent.com/79257220/191268477-78573f6f-f159-4353-8774-9cd8d8ccd70f.png)"/>
+    <img src="![image](https://user-images.githubusercontent.com/79257220/191268477-78573f6f-f159-4353-8774-9cd8d8ccd70f.png)"/>
 
     
 ## 5. 모델 저장
